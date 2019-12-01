@@ -1,6 +1,5 @@
 'use strict'
 
-
 //first lesson
 /*
 var leftBorderWidth = 1;
@@ -56,7 +55,7 @@ console.log(++incr); //11
 console.log(incr++); //10
 
 console.log(decr--); //10
-console.log(--decr); //9 */
+console.log(--decr); //9 
 
 console.log(5 % 2); //1 остаток от деления
 console.log('2'== 2); //true
@@ -72,7 +71,7 @@ console.log(a && c); // fasle
 console.log(a || b); // true
 console.log(a || c); // true
 console.log(c || d); // fasle
-console.log(c || !d);// true
+console.log(c || !d); // true */
 
 
 
